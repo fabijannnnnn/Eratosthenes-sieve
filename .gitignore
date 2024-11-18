@@ -1,0 +1,13 @@
+# ignore objects ending with .o
+*.o
+
+# ignore temp files from the editor or the os
+*~
+*.swp
+*.DS_Store
+
+# ignore executables
+*.exe
+*.exec
+*.out
+*.app
