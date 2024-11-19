@@ -1,4 +1,4 @@
-#Simple Implementation of the popular Sieve of Eratosthenes
+# Simple Implementation of the popular Sieve of Eratosthenes
 
 ## Features
 
